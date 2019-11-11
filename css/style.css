@@ -104,7 +104,40 @@ margin-bottom: 10px;
 .img11{
 	grid-column: 10/12;
 }
+.img1friet{
+	grid-column: 1/5;
+}
+.textfriet{
+	grid-column: 5/8;
+	grid-row: 2/4;
+}
+.img2friet{
+	grid-column: 8/12;
+}
+.img3friet{
+	grid-column: 1/5;
+}
+.img4friet{
+	grid-column: 8/12;
+}
+.textbrood1{
+	grid-column: 1/5;
+	background-color: #511c74;
+	width: 500px;
+}
+.textbrood2{
+	grid-column: 8/12;
+	background-color: #511c74;
+	width: 500px;
+}
+h1{
+	background-color: #91c73e;
+}
+ul{
+	 list-style-type: none;
+}
 .footer{
+	width: 1000px;
 	background-color: #91c73e;
 	grid-column: 1/12;
 	grid-row: 6/7;
